@@ -1,0 +1,9 @@
+.menu ul{
+    display: flex;
+    gap:1.5rem;
+    list-style:none;
+    background-color: lightgrey;
+}
+.footer{
+     margin-top: 80vh;
+}
