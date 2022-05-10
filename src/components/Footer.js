@@ -1,15 +1,12 @@
-import React from 'react'
-import Menu from './Menu'
+import React from "react";
+import Menu from "./Menu";
 
 const Footer = () => {
   return (
     <div className="footer">
-         <Menu/>
-
-
-
+      <Menu />
     </div>
-  )
-}
+  );
+};
 
-export default Footer
+export default Footer;
